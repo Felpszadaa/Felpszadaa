@@ -1,4 +1,4 @@
-### Olá!
+### Hello!
 
 - 💼 Trabalhando com front-end
 - 📚 Estudando JAVASCRIPT e PYTHON

@@ -1,7 +1,7 @@
 ### Hello!
 
-- 💼 Trabalhando com front-end
-- 📚 Estudando JAVASCRIPT e PYTHON
+- 💼 Working with front-end
+- 📚Studying JAVASCRIPT and PYTHON
 
 <div>
   <a href="https://github.com/felpszadaa">

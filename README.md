@@ -1,7 +1,7 @@
 ### Hello!
 
 - 💼 Working with front-end
-- 📚 Studying JAVASCRIPT, PYTHON e C++
+- 📚 Studying JAVASCRIPT, PYTHON and C++
 
 <div>
   <a href="https://github.com/felpszadaa">
